@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://taylorfullstack.github.io/portfolio",
   "author": {
     "name": "Heather Taylor",
     "email": "heather.taylor.dev@gmail.com",
